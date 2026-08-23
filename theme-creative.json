@@ -1,6 +1,6 @@
 {
   "shadow": true,
-  "main": "#7922FF",
+  "main": "#5865f2",
   "mainText": "#ffffff",
   "currency": "$",
   "items": {
@@ -14066,10 +14066,7 @@
       "status": 10,
       "vehicle": 3
     },
-    "logo": {
-      "image": "logo.png",
-      "size": 75
-    },
+    "logo": 75,
     "alwaysWanted": true,
     "percentage": true,
     "icons": "#FFFFFF",
@@ -14089,7 +14086,7 @@
     "pointer": "#EF4444",
     "progress": {
       "background": "#FFFFFF",
-      "circle": "#7922FF",
+      "circle": "#5865f2",
       "letter": "#FFFFFF"
     }
   },
